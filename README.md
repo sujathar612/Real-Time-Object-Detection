@@ -36,7 +36,7 @@ This project performs real-time object detection using a webcam, video files, or
 
 pip install -r requirements.txt
 
-python detect.py
+python app.py
 
 ## Future Enhancements
 
